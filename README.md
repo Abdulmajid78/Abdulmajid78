@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdumajid Masixullaev
-- 🌱 I’m currently learning Web Developing
+- 🌱 I’m learning Web Developing (Full stack)
 - 🗣 I speak Uzbek, Russian, English. I want to learn Spanish 
 - 📫 How to reach me "abdumajid.odilov@mail.ru"
 
