@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Abdumajid Masixullaev
 - 🌱 I’m learning Web Developing (Full stack)
-- 🗣 I speak Uzbek, Russian, English 
+- 🗣 I speak Uzbek, Russian, English
+- 👨🏻‍🎓 Bobir Akilkhanov Tech Academy
+- 👨🏻‍🎓 Isystem.uz
 - 📫 How to reach me "abdumajid.odilov@mail.ru"
 
 <!---
